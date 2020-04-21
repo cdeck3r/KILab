@@ -8,4 +8,4 @@ KI-Lab für Smart Office am Herman-Hollerith Zentrum (HHZ)
 ## Ressourcen
 
 * [Trello Board](https://trello.com/b/mg5dpHZ6)
-* Kickoff Folien
+* [Kickoff Folien](https://github.com/cdeck3r/KILab/blob/master/KILab_Kickoff.pdf)
