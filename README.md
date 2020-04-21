@@ -1,10 +1,11 @@
 # KILab
-KI-Lab for Smart Office Spaces at the Herman-Hollerith Zentrum (HHZ)
+KI-Lab für Smart Office am Herman-Hollerith Zentrum (HHZ)
 
-* [Herman-Hollerith Zentrum (HHZ)](https://hhz.de) 
-* [KILab at ZD.BB](https://www.zd-bb.de/ki-lab/)
+* [Herman-Hollerith Zentrum (HHZ)](https://www.hhz.de/home/) 
+* [KILab am ZD.BB](https://www.zd-bb.de/ki-lab/)
+* [Regionale Labore für Künstliche Intelligenz in Baden-Württemberg](https://www.wirtschaft-digital-bw.de/service/ki-made-in-bw/regionale-ki-labs/)
 
-## Resources
+## Ressourcen
 
 * [Trello Board](https://trello.com/b/mg5dpHZ6)
-* Slides
+* Kickoff Folien
