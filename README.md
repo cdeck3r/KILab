@@ -19,6 +19,5 @@ KI-Lab für Smart Office am Herman-Hollerith Zentrum (HHZ)
 * [Version 1 als Bild (23.06.2020)](https://github.com/cdeck3r/KILab/blob/master/Raum229-Eingerichtet%20(1).png)
 * [Version 1 als Datei (23.06.2020)](https://github.com/cdeck3r/KILab/blob/master/Raum229-Eingerichtet%20(1).sh3d)
 
-* [Version 2 als Datei (19.07.2020)](TODO)
-* [Version 2 als Simulation (19.07.2020)](TODO)
-
+* [Version 2 als Simulation (19.07.2020)](https://reutlingenuniversityde.sharepoint.com/:v:/s/KILabfurSmartOfficeSpaces/EU9msWamb8pKowPBPmCuxQYB7jB1akOw2yqLqkHY0GmapA?e=XkpwKS)
+* [Version 2 als Datei (19.07.2020)](https://github.com/cdeck3r/KILab/blob/master/Raum229-Mit%20Premium-Features.sh3d)
