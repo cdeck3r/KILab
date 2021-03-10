@@ -1,6 +1,4 @@
 #!/bin/bash
-# This is my first script! This is a comment.
-#from subprocess import Popen, PIPE
 sleep 1
 cd coral/tflite1/
 python3 countApi.py &
