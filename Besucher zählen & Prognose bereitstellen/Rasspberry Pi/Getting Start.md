@@ -13,7 +13,7 @@ Dieser Bericht zeigt, welche schritte für die Implementierung des Use Cases "Ra
 - 2d. Erstellung eines Skripts das die Prognose in den Raspi Webserver kopiert (ausstehend)
 - 3d. Anwendung KILAB Webserver das die Prognose in einem Diagramm veranschaulicht (fertig)
 
-### 1. Anwendung "Personenerkennung" und Personenabfrage-API
+### 1. Anwendung Personenerkennung und Personenabfrage-API
 Für den schnellen Start der Personenzählung und der Personenabfrage-API ist auf dem KILAB Raspberry Pi unter /home/pi folgender Script hinterlegt:
 https://github.com/cdeck3r/KILab/blob/master/Besucher%20z%C3%A4hlen%20%26%20Prognose%20bereitstellen/Rasspberry%20Pi/StartCoralPersonenz%C3%A4hler.sh
 
