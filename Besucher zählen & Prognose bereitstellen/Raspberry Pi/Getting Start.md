@@ -3,7 +3,7 @@
 ## Einführung
 Dieser Bericht zeigt, welche schritte für die Implementierung des Use Cases "Raumbelegung" geplant ist bzw. implementiert wurde.
 
-## Teil 1 - Vorgehensweise mit aktuellem Status:
+## Vorgehensweise mit aktuellem Status:
 
 - 1a. Anwendung Personenerkennung  (fertig)
 - 1b. Personenerkennung  API (fertig)
